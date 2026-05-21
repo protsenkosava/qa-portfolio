@@ -1,6 +1,6 @@
-# 🐛 Bug Reports — demoblaze.com
+# 🐛 Bug Reports — pizzashop
 
-Тестовий проєкт: ручне тестування демо-магазину [demoblaze.com](https://demoblaze.com)
+Тестовий проєкт: ручне тестування демо-магазину [pizzashop](https://pizzashop)
 
 **Тип тестування:** Функціональне, UI, негативне  
 **Браузер:** Google Chrome 124  

@@ -1,6 +1,6 @@
-# ✅ Test Cases — demoblaze.com
+# ✅ Test Cases — pizzashop
 
-Тестовий проєкт: ручне тестування демо-магазину [demoblaze.com](https://demoblaze.com)
+Тестовий проєкт: ручне тестування демо-магазину [pizzashop](https://pizzashop)
 
 **Тип тестування:** Функціональне, позитивне та негативне  
 **Браузер:** Google Chrome 124  

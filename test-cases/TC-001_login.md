@@ -15,7 +15,7 @@
 | **Тип** | Позитивний |
 
 **Кроки:**
-1. Відкрити https://demoblaze.com
+1. Відкрити https://pizzashop
 2. Натиснути **Log in**
 3. Ввести коректний username: `testuser`
 4. Ввести коректний password: `Test1234`
@@ -35,7 +35,7 @@
 | **Тип** | Негативний |
 
 **Кроки:**
-1. Відкрити https://demoblaze.com
+1. Відкрити https://pizzashop
 2. Натиснути **Log in**
 3. Ввести username: `nonexistentuser123`
 4. Ввести password: `Test1234`
@@ -55,7 +55,7 @@
 | **Тип** | Негативний |
 
 **Кроки:**
-1. Відкрити https://demoblaze.com
+1. Відкрити https://pizzashop
 2. Натиснути **Log in**
 3. Залишити поле Username **порожнім**
 4. Ввести password: `Test1234`
@@ -75,7 +75,7 @@
 | **Тип** | Негативний |
 
 **Кроки:**
-1. Відкрити https://demoblaze.com
+1. Відкрити https://pizzashop
 2. Натиснути **Log in**
 3. Ввести username: `testuser`
 4. Залишити поле Password **порожнім**
@@ -95,7 +95,7 @@
 | **Тип** | Негативний |
 
 **Кроки:**
-1. Відкрити https://demoblaze.com
+1. Відкрити https://pizzashop
 2. Натиснути **Log in**
 3. Ввести username: `testuser`
 4. Ввести password: `WrongPassword`
